@@ -21,17 +21,17 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://vsthemes.org/uploads/posts/2020-11/1605380119_31.webp);
+  --theme-background-image: url(httpp://1.bp.blogspot.com/-2z-w93eRT-I/YECL2srQQhI/AAAAAAAArNE/xvsTtNGjoiMMqCNbGnL4Dt9om0zS-blCwCLcBGAsYHQ/s2048/Violet-Everagarden-1-1-scaled.jpg);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(251, 224, 185);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.7);
 
   /*
     Home Icon Image
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 62px;
+  --server-listing-width: 65px;
 
   /*
     Font Size
@@ -72,21 +72,21 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(251, 224, 185);
 
   /*
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
+  --unread-server-animation: none;
 
   /*
     Video / Screen share buttons
   */
-  --video-screen-button-background-color: rgba(200, 200, 200, 0.2);
-  --video-screen-button-foreground-color: white;
+  --video-screen-button-background-color: rgba(200, 200, 200, 0.1);
+  --video-screen-button-foreground-color: rgb(251, 224, 185);
   --video-screen-button-background-hovor-color: rgba(200, 200, 200, 0.4);
-  --video-screen-button-foreground-hovor-color: white;
+  --video-screen-button-foreground-hovor-color: rgba(251, 224, 185, 1);
 
   /*
     Role Title Color
@@ -116,7 +116,7 @@
   /*
     Message Box Transparency
   */
-  --message-box-transparency: rgba(0, 0, 0, 0.6);
+  --message-box-transparency: rgba(0, 0, 0, 0);
 
   /*
     Embed Background Transparency
@@ -126,7 +126,7 @@
   /*
     Message Hover Buttons
   */
-  --message-hover-buttons-background: rgba(200, 200, 200, 0.1);
+  --message-hover-buttons-background: rgba(200, 200, 200, 0);
 
   /*
     Context Menu Transparency
